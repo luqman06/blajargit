@@ -1,3 +1,4 @@
 kegiatan:
 1. git init saat awal
 2. tambah .gitignore
+3. Tambahan aja
