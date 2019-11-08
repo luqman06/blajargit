@@ -6,3 +6,4 @@ kegiatan:
 5. Ke Tiga
 6. Ke Empat
 7. ke lima
+8. ke enam
