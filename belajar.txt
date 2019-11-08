@@ -1,0 +1,3 @@
+kegiatan:
+1. git init saat awal
+2. tambah .gitignore
