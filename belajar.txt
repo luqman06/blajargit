@@ -22,3 +22,4 @@ kegiatan:
 21. ke sembilanbelas
 22. ke duapuluh
 23. ke 21
+23. ke 22
