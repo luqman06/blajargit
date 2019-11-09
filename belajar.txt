@@ -23,3 +23,4 @@ kegiatan:
 22. ke duapuluh
 23. ke 21
 23. ke 22
+24. ke 23
