@@ -17,3 +17,4 @@ kegiatan:
 16. ke empatbelas
 17. ke limabelas
 18. ke enambelas
+19. ke tujubelas
