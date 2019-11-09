@@ -29,3 +29,4 @@ kegiatan:
 27. ke 26
 28. ke 27
 29. ke 28
+30. ke 30
