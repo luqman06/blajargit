@@ -27,3 +27,4 @@ kegiatan:
 25. ke 24
 26. ke 25
 27. ke 26
+28. ke 27
