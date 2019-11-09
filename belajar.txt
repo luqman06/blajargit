@@ -25,3 +25,4 @@ kegiatan:
 23. ke 22
 24. ke 23
 25. ke 24
+26. ke 25
