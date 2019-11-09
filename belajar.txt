@@ -9,4 +9,5 @@ kegiatan:
 8. ke enam
 9. ke tuju
 10. ke delapan
-11. ke sembilan
+11. ke sembilans
+12. ke sepuluh
