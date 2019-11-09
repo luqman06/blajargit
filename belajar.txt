@@ -12,3 +12,4 @@ kegiatan:
 11. ke sembilans
 12. ke sepuluhs
 13. ke sebelas
+14. ke duabelas
